@@ -9,5 +9,8 @@ LSTM is an advanced version of RNN, the RNNs have loops allowing them to use pas
 
 Results
 
+![Result1]()
+
+
 References
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
